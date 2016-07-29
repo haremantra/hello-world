@@ -1,2 +1,3 @@
 # hello-world
-The beginning 
+The beginning. 
+Lawyer learning to program.
